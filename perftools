@@ -1,0 +1,19 @@
+1. dstat 查看系统性能
+
+2. vmstat 1查看系统的io cpu cs
+
+3. pidstat 查看指定进程信息
+
+4. iostat 是查看磁盘和网络的
+
+5. htop
+
+6. ifhtop
+
+7. pstack
+
+8. perf FlameGraph 
+  https://github.com/brendangregg/FlameGraph
+
+9. 
+
